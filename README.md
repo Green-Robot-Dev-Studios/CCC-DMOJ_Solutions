@@ -6,7 +6,7 @@ Goal: Finish all CCC by the end of the year!
 This repo was made with ❤ by Nepean High School.
 
 Contributors:
-Nicholas Ficara (GreenRobot)
-Khalid Filali
-Rowan Zaitlin
+Nicholas Ficara (GreenRobot),
+Khalid Filali,
+Rowan Zaitlin,
 Martin Pascoli
